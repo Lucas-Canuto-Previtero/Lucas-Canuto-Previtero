@@ -14,6 +14,8 @@ This GitHub serves as a portfolio of my journey: here, I share college projects,
 As a developer, I believe we should never stop learning. That’s why I’m constantly studying new technologies, building projects, and seeking out new challenges.
 I hope a project here might inspire you or even come in handy at some point. Welcome! 🚀
 
+---
+
 ## Minha Stack | My Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
@@ -27,7 +29,6 @@ I hope a project here might inspire you or even come in handy at some point. Wel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
 </p>
 
----
 
 ## Minahs Redes | My Network
 
