@@ -1,7 +1,7 @@
 # 👋 Hi everyone!
 
 Meu nome é **Lucas Canuto Previtero** e sou apaixonado por programação (e por tudo o que deriva dela 😅).
-Atualmente curso **Ciência da Computação** na **SPTech** e trabalho como **estagiário de Desenvolvimento Back-end e IA**.
+Atualmente curso **Ciência da Computação** na **SPTech** e trabalho como **estagiário de Desenvolvimento Back-end e IA** no **Itaú Unibanco**.
 Este GitHub funciona como um grande portfólio da minha jornada: aqui compartilho projetos da faculdade, projetos pessoais e experimentos que me ajudam a evoluir como desenvolvedor.
 Como bom desenvolvedor, acredito que nunca podemos parar de aprender. Por isso, estou sempre estudando novas tecnologias, criando projetos e buscando novos desafios.
 Espero que algum projeto daqui possa inspirar você ou até ajudar em algum momento. Seja muito bem-vindo! 🚀
@@ -9,7 +9,7 @@ Espero que algum projeto daqui possa inspirar você ou até ajudar em algum mome
 ## 
 
 My name is **Lucas Canuto Previtero**, and I’m passionate about programming (and everything that stems from it 😅).
-I am currently studying **Computer Science** at **SPTech** and working as a **Back-end Development and AI intern**.
+I am currently studying **Computer Science** at **SPTech** and working as a **Back-end Development and AI intern** on **Itaú Unibanco**.
 This GitHub serves as a portfolio of my journey: here, I share college projects, personal projects, and experiments that help me grow as a developer.
 As a developer, I believe we should never stop learning. That’s why I’m constantly studying new technologies, building projects, and seeking out new challenges.
 I hope a project here might inspire you or even come in handy at some point. Welcome! 🚀
