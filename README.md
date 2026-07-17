@@ -1,4 +1,4 @@
-# 👋 Fala, pessoal!
+# 👋 Hi everyone!
 
 Meu nome é **Lucas Canuto Previtero** e sou apaixonado por programação (e por tudo o que deriva dela 😅).
 Atualmente curso **Ciência da Computação** na **SPTech** e trabalho como **estagiário de Desenvolvimento Back-end e IA**.
@@ -6,8 +6,7 @@ Este GitHub funciona como um grande portfólio da minha jornada: aqui compartilh
 Como bom desenvolvedor, acredito que nunca podemos parar de aprender. Por isso, estou sempre estudando novas tecnologias, criando projetos e buscando novos desafios.
 Espero que algum projeto daqui possa inspirar você ou até ajudar em algum momento. Seja muito bem-vindo! 🚀
 
-
-# 👋 Hi everyone!
+## 
 
 My name is **Lucas Canuto Previtero**, and I’m passionate about programming (and everything that stems from it 😅).
 I am currently studying **Computer Science** at **SPTech** and working as a **Back-end Development and AI intern**.
